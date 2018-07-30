@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,pretty_hrtime",
+    "logging_enabled": "false",
+    "name": "pretty_hrtimeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "pretty_hrtimeSmokeTest.js"
+}
